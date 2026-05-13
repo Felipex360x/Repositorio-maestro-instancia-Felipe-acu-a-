@@ -5,12 +5,12 @@ en este repositorio se encuentran todo lo que este relacionado con la estancia d
 
 | Servicio       | Encargado | Repositorio                                    | Puertos | 
 | :------------- | :-------- | :--------------------------------------------- | :-------| 
-| MS-Usuario     | Felipe    | https://github.com/Felipex360x/ms-usuario      | 8080
-| MS-Comprador   | Felipe      | https://github.com/Felipex360x/ms-comprador  |
-| MS-Vendedor     | Felipe     | en espera   |
-| MS-Repartidor    | Felipe     | https://github.com/Felipex360x/ms-repartidor|
-| MS-Vehiculo      | Felipe | https://github.com/Felipex360x/ms-vehiculo|
-| MS-Envio      | Felipe | en espera   |
+| MS-Usuario     | Felipe    | https://github.com/Felipex360x/ms-usuario      | 8080 | 
+| MS-Comprador   | Felipe      | https://github.com/Felipex360x/ms-comprador  | 8084| 
+| MS-Vendedor     | Felipe     | en espera   |  8085| 
+| MS-Repartidor    | Felipe     | https://github.com/Felipex360x/ms-repartidor| 8083 | 
+| MS-Vehiculo      | Felipe | https://github.com/Felipex360x/ms-vehiculo| 8082 | 
+| MS-Envio      | Felipe | en espera   | 8081|  
 
 ## Despliegue
 
