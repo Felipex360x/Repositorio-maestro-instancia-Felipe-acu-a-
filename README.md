@@ -13,11 +13,16 @@ en este repositorio se encuentran todo lo que este relacionado con la estancia d
 | MS-Envio      | Felipe | en espera   |
 
 ## Despliegue
+
 Cada integrante levanta su servicio en su propia EC2 con
+
 `docker compose up -d`.
 
 #comandos para subir el repositorio
 git status                              # ver qué archivos detectó
+
 git add .                               # agregar todo lo nuevo
+
 git commit -m "feat(auth): estructura inicial del servicio"
+
 git push origin main
