@@ -21,8 +21,9 @@ Como levantar cada madulo
  `cd entorno_desarrollo/modulo_elegido`.
 
 2) ya dentro de la carpeta vamos a levantar el contenedor
-   
-`docker compose up -d`.
+
+`docker compose down`.
+`docker compose up -d --build`.
 
 
 #comandos para subir el repositorio
