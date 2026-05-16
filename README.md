@@ -14,11 +14,19 @@ en este repositorio se encuentran todo lo que este relacionado con la estancia d
 
 ## Despliegue
 
-Cada integrante levanta su servicio en su propia EC2 con
+Como levantar cada madulo
 
+1) elegir la carpeta dentro de la instancia
+   
+ `cd entorno_desarrollo/modulo_elegido`.
+
+2) ya dentro de la carpeta vamos a levantar el contenedor
+   
 `docker compose up -d`.
 
+
 #comandos para subir el repositorio
+
 git status                              # ver qué archivos detectó
 
 git add .                               # agregar todo lo nuevo
@@ -26,3 +34,8 @@ git add .                               # agregar todo lo nuevo
 git commit -m "feat(auth): estructura inicial del servicio"
 
 git push origin main
+
+
+
+
+
