@@ -10,7 +10,7 @@ en este repositorio se encuentran todo lo que este relacionado con la estancia d
 | MS-Vendedor     | Felipe     | https://github.com/Felipex360x/ms-vendedor  |  8085| 
 | MS-Repartidor    | Felipe     | https://github.com/Felipex360x/ms-repartidor| 8083 | 
 | MS-Vehiculo      | Felipe | https://github.com/Felipex360x/ms-vehiculo| 8082 | 
-| MS-Envio      | Felipe | en espera   | 8081|  
+| MS-Envio      | Felipe | https://github.com/Felipex360x/ms-envios   | 8081|  
 
 ## Despliegue
 
