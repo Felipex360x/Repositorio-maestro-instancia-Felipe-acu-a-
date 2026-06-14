@@ -3,9 +3,9 @@
 en este repositorio se encuentran todo lo que este relacionado con la estancia de felipe acuña
 ## Microservicios y repositorios
 
-| Servicio       | Encargado | Repositorio                                    | Puertos |    | Puertos | 
-| :------------- | :-------- | :--------------------------------------------- | :-------| | :-------|  
-| MS-Usuario     | Felipe    | https://github.com/Felipex360x/ms-usuario      | 8080 |  |http://54.236.72.231:8082/swagger-ui/index.html|
+| Servicio       | Encargado | Repositorio                                    | Puertos |     
+| :------------- | :-------- | :--------------------------------------------- | :-------|  
+| MS-Usuario     | Felipe    | https://github.com/Felipex360x/ms-usuario      | 8080 |  
 | MS-Comprador   | Felipe      | https://github.com/Felipex360x/ms-comprador  | 8084| 
 | MS-Vendedor     | Felipe     | https://github.com/Felipex360x/ms-vendedor  |  8085| 
 | MS-Repartidor    | Felipe     | https://github.com/Felipex360x/ms-repartidor| 8083 | 
