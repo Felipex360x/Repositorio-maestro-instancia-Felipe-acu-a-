@@ -41,11 +41,11 @@ git push origin main
 | Servicio       | Encargado | Swagger                                    | Test | 
 | :------------- | :-------- | :--------------------------------------------- | :-------| 
 | MS-Usuario     | Felipe    | ✅ Implementado      |✅ implementado   | 
-| MS-Comprador   | Felipe      |✅ Implementado   | | 
-| MS-Vendedor     | Felipe     |✅ Implementado    |  | 
-| MS-Repartidor    | Felipe     | |  | 
-| MS-Vehiculo      | Felipe | |  | 
-| MS-Envio      | Felipe |    | |  
+| MS-Comprador   | Felipe      |⏳ Pendiente   |⏳ Pendiente | 
+| MS-Vendedor     | Felipe     |✅ Implementado    | ⏳ Pendiente | 
+| MS-Repartidor    | Felipe     |⏳ Pendiente  | ⏳ Pendiente  | 
+| MS-Vehiculo      | Felipe |✅ Implementado  | ⏳ Pendiente  | 
+| MS-Envio      | Felipe |  ⏳ Pendiente   |⏳ Pendiente  |  
 
 
 
