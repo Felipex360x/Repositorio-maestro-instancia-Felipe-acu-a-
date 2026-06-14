@@ -36,6 +36,18 @@ git commit -m "feat(auth): estructura inicial del servicio"
 
 git push origin main
 
+## Microservicios con sus pruebas y swagger
+
+| Servicio       | Encargado | Swagger                                    | Test | 
+| :------------- | :-------- | :--------------------------------------------- | :-------| 
+| MS-Usuario     | Felipe    | ✅ Implementado      |✅ implementado   | 
+| MS-Comprador   | Felipe      |  | | 
+| MS-Vendedor     | Felipe     |   |  | 
+| MS-Repartidor    | Felipe     | |  | 
+| MS-Vehiculo      | Felipe | |  | 
+| MS-Envio      | Felipe |    | |  
+
+
 
 
 
