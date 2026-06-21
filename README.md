@@ -47,6 +47,9 @@ git push origin main
 | MS-Vehiculo      | Felipe |✅ Implementado  | ✅ implementado    | 
 | MS-Envio      | Felipe |  ⏳ Pendiente   |⏳ Pendiente  |  
 
+#Cambios a realizar a futuro
+agregar el SCHEMA a los servicios faltante
+
 
 
 
