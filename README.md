@@ -42,7 +42,7 @@ git push origin main
 | :------------- | :-------- | :--------------------------------------------- | :-------| 
 | MS-Usuario     | Felipe    | ✅ Implementado      |✅ implementado   | 
 | MS-Comprador   | Felipe      |⏳ Pendiente   |⏳ Pendiente | 
-| MS-Vendedor     | Felipe     |✅ Implementado    | ⏳ Pendiente | 
+| MS-Vendedor     | Felipe     |✅ Implementado    | ✅ implementado  | 
 | MS-Repartidor    | Felipe     |⏳ Pendiente  | ⏳ Pendiente  | 
 | MS-Vehiculo      | Felipe |✅ Implementado  | ✅ implementado    | 
 | MS-Envio      | Felipe |  ⏳ Pendiente   |⏳ Pendiente  |  
