@@ -43,9 +43,9 @@ git push origin main
 | MS-Usuario     | Felipe    | ✅ Implementado      |✅ implementado   | 
 | MS-Comprador   | Felipe      ||✅ implementado     |✅ implementado    | 
 | MS-Vendedor     | Felipe     |✅ Implementado    | ✅ implementado  | 
-| MS-Repartidor    | Felipe     |⏳ Pendiente  | ⏳ Pendiente  | 
+| MS-Repartidor    | Felipe     |✅ implementado  | ⏳ Pendiente  | 
 | MS-Vehiculo      | Felipe |✅ Implementado  | ✅ implementado    | 
-| MS-Envio      | Felipe |  ⏳ Pendiente   |⏳ Pendiente  |  
+| MS-Envio      | Felipe |  ✅ implementado |⏳ Pendiente  |  
 
 #Cambios a realizar a futuro
 agregar el SCHEMA a los servicios faltante
